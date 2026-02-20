@@ -11,5 +11,13 @@ export default function App() {
         <ProductList />
       </main>
     </div>
+     <div className="app">
+      <header>
+        <h1>eShop</h1>
+      </header>
+      <main>
+        <ProductList />
+      </main>
+    </div>
   );
 }
